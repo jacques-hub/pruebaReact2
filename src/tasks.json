@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {
+            "title": "Task 1",
+            "responsible": "Marc",
+            "description": "Play Games",
+            "priority": "high"    
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Olivier",
+            "description": "See cartoons",
+            "priority": "medium"    
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Curie",
+            "description": "Experiment",
+            "priority": "high"    
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Marc",
+            "description": "Lorem Ipsum",
+            "priority": "low"    
+        }
+    ]
+}
